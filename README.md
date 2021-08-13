@@ -11,7 +11,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](.images/Desktop.png)
+![](./images/Desktop-Preview.png)
 
 ### Links
 
@@ -24,6 +24,8 @@ Users should be able to:
 - CSS custom properties
 - CSS Grid
 - Mobile-first workflow
+
+
 
 ### What I learned
 
