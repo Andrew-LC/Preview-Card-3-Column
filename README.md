@@ -15,7 +15,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Challenge if you want to check it out](https://your-solution-url.com)
+- Solution URL: [Challenge if you want to check it out](https://www.frontendmentor.io/solutions/grid-based-3-column-preview-0T6C6i-Mu)
 - Live Site URL: [Live site](https://andrew-lc.github.io/Preview-Card-3-Column/)
 
 ### Built with
