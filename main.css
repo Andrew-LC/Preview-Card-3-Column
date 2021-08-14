@@ -92,11 +92,11 @@ body {
   border: 2px solid var(--Very-light-gray);
 }
 
-.section:nth-child(2) .btn {
+.section:nth-child(3) .btn {
   color: var(--Very-dark-cyan);
 }
 
-.section:nth-child(2) .btn:hover {
+.section:nth-child(3) .btn:hover {
   background-color: var(--Very-dark-cyan);
   color: var(--Very-light-gray);
   border: 2px solid var(--Very-light-gray);
